@@ -8,6 +8,7 @@ class App extends Component {
     return (
       <div id="App__container">
         <ChatWindow />
+        
       </div>
     );
   }
